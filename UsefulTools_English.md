@@ -12,10 +12,7 @@
   <https://color.adobe.com/zh/create/color-wheel>  
 - Color Space  
   <https://mycolor.space/>  
-
-### Reference Generator
-- Zotero 
-- Mendeley  
+  
 ### Latex：
 -overleaf  
  <https://www.overleaf.com/>   
