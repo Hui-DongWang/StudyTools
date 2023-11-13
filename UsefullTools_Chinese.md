@@ -18,7 +18,9 @@
 - Mendeley  
 ### Latex：
 -overleaf-在线latex编辑器  
- <https://www.overleaf.com/>  
+ <https://www.overleaf.com/> 
+-Curvenote  
+<https://curvenote.com/>  
 
 ## 数据下载
 ### 地图底图：
