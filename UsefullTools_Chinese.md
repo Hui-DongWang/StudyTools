@@ -26,7 +26,7 @@
 [GADM全球行政区划边界图](https://gadm.org/)https://gadm.org/
 
 ## 英文文章阅读
-# Chrome插件：
+### Chrome插件：
 - Less Translate:浏览器鼠标指向（选取）翻译
 - Google Translate
 
