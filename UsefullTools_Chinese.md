@@ -13,9 +13,6 @@
 - Color Space: 按主色系生成颜色梯度  
   <https://mycolor.space/>  
 
-### 参考文献生成：
-- Zotero(Chrome插件文章网页自动导入，桌面版文件导入，Word插件插入)  
-- Mendeley  
 ### Latex：
 -overleaf-在线latex编辑器  
  <https://www.overleaf.com/>   
