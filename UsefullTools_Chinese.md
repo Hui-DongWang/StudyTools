@@ -11,7 +11,9 @@
 - Adobe Color: 调色盘生成器  
   <https://color.adobe.com/zh/create/color-wheel>  
 - Color Space: 按主色系生成颜色梯度  
-  <https://mycolor.space/>  
+  <https://mycolor.space/>
+- Coloring for Colorblindness:色盲友好型配色
+  <https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40>
 
 ### Latex：
 -overleaf-在线latex编辑器  
