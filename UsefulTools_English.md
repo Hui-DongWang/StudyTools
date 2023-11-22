@@ -43,8 +43,8 @@
 -<https://www.marginnote.com/>  
 
 ### Data downloading
-Tab Save(Chrom plugin)   
-DownThemAll(Chrome plugin)   
+-Tab Save(Chrom plugin)   
+=DownThemAll(Chrome plugin)   
 
 ### website building
 -Wix   
