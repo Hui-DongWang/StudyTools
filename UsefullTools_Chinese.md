@@ -23,10 +23,10 @@
 
 ## 数据下载
 ### 地图底图：
--阿里云国内地区选择器   
-<https://datav.aliyun.com/portal/school/atlas/area_selector>  
--GADM全球行政区划边界图   
-<https://gadm.org/>  
+- 阿里云国内地区选择器   
+  <https://datav.aliyun.com/portal/school/atlas/area_selector>  
+- GADM全球行政区划边界图   
+  <https://gadm.org/>  
 
 ## 英文文章阅读
 ### Chrome插件：
@@ -35,19 +35,20 @@
 
 ## 其他工具
 ### 思维导图
--MindMiester  
-<https://www.mindmeister.com/>   
--XMind  
--<https://xmind.app/>  
--MarginNote（Mac友好）        
--<https://www.marginnote.com/>
+- MindMiester  
+  <https://www.mindmeister.com/>   
+- XMind  
+  <https://xmind.app/>  
+- MarginNote（Mac友好）        
+  <https://www.marginnote.com/>
 
 ### 网站建立：
--Wix   
-<https://www.wix.com/>  
+- Wix   
+  <https://www.wix.com/>  
  一站式建立网站，我的粗糙主页就是用Wix建立的，可以参考:<https://www.wanghuidong.com/> 
  
  ### 数据批量下载：
- Tab Save (Chrome插件)  
- DownThemAll(Chrome插件 )   
+- Tab Save (Chrome插件)  
+- DownThemAll(Chrome插件 )   
+
 # 致谢：
