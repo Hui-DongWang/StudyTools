@@ -16,10 +16,10 @@
   <https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40>
 
 ### Latex：
--overleaf-在线latex编辑器  
- <https://www.overleaf.com/>   
--Curvenote  
-<https://curvenote.com/>  
+- overleaf-在线latex编辑器  
+  <https://www.overleaf.com/>   
+- Curvenote  
+  <https://curvenote.com/>  
 
 ## 数据下载
 ### 地图底图：
@@ -30,8 +30,8 @@
 
 ## 英文文章阅读
 ### Chrome插件：
-- Less Translate:浏览器鼠标指向（选取）翻译  
-- Google Translate  
+- Less Translate:浏览器鼠标指向单词实时翻译  
+- lmTranslate：鼠标整段选取谷歌翻译  
 
 ## 其他工具
 ### 思维导图
