@@ -12,7 +12,7 @@
 - Adobe illustrator    
   <https://www.adobe.com/sg/products/illustrator.html>   
 - Websites of Vectors：       
-  - Vecteezy
+  - Vecteezy   
     <https://www.vecteezy.com/>  
   - pngimg   
     <https://pngimg.com/>   
