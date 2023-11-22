@@ -5,6 +5,21 @@
 - Grammerly  
   <https://app.grammarly.com/>
 
+
+### Figure Design for Academic Article：
+- Python library: Seaborn   
+  <https://seaborn.pydata.org/index.html>   
+- Adobe illustrator    
+  <https://www.adobe.com/sg/products/illustrator.html>   
+- Websites of Vectors：       
+  - Vecteezy
+    <https://www.vecteezy.com/>  
+  - pngimg   
+    <https://pngimg.com/>   
+  - Freepik   
+    <https://www.freepik.com/>   
+
+
 ### Color Design
 - Color Palette Generator   
   <https://www.toptal.com/designers/colourcode/quad-color-builder>  
