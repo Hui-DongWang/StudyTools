@@ -16,9 +16,7 @@
   - pngimg   
     <https://pngimg.com/>   
   - Freepik   
-    <https://www.freepik.com/>         
-  - pngimg   
-    <https://pngimg.com/>   
+    <https://www.freepik.com/>    
     
 ### 图片配色：
 - Color Palette Generator-可以自动生成设定个数的色彩搭配方案，可以在屏幕选择里自动改变色系  
