@@ -30,7 +30,7 @@
 
 ## 英文文章阅读
 ### Chrome插件：
-- Less Translate:浏览器鼠标指向单词实时翻译  
+- Less Translate：浏览器鼠标指向单词实时翻译  
 - lmTranslate：鼠标整段选取谷歌翻译  
 
 ## 其他工具
