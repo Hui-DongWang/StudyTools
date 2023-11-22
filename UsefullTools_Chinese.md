@@ -39,7 +39,7 @@
 <https://www.mindmeister.com/>   
 -XMind  
 -<https://xmind.app/>  
--MarginNote（Mac友好）
+-MarginNote（Mac友好）        
 -<https://www.marginnote.com/>
 
 ### 网站建立：
