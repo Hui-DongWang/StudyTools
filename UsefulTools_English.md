@@ -36,19 +36,19 @@
 ## Others
 ### mind mapping
 -MindMiester  
-<https://www.mindmeister.com/>   
+ <https://www.mindmeister.com/>   
 -XMind  
--<https://xmind.app/>  
+ <https://xmind.app/>  
 -MarginNote  
--<https://www.marginnote.com/>  
+ <https://www.marginnote.com/>  
 
 ### Data downloading
 -Tab Save(Chrom plugin)   
-=DownThemAll(Chrome plugin)   
+-DownThemAll(Chrome plugin)   
 
 ### website building
 -Wix   
-<https://www.wix.com/>  
+ <https://www.wix.com/>  
  my website builded by Wix :<https://www.wanghuidong.com/>  
 
 # Acknowledgements
