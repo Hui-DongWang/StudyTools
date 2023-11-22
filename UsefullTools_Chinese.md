@@ -49,6 +49,6 @@
  
  ### 数据批量下载：
 - Tab Save (Chrome插件)  
-- DownThemAll(Chrome插件 )   
+- DownThemAll（Chrome插件）   
 
 # 致谢：
