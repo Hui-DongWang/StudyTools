@@ -10,9 +10,15 @@
   <https://seaborn.pydata.org/index.html>   
 - Adobe illustrator （矢量作图，用来画原理示意图之类）  
   <https://www.adobe.com/sg/products/illustrator.html>   
-- 一些无版权的矢量图库（用来画原理示意图的素材之类）：       
+- 一些不涉及版权的矢量图库（用来画原理示意图的素材之类,例如搜索satellite就能搜到各种卫星的矢量图标）：
+   - Vecteezy   
+    <https://www.vecteezy.com/>  
   - pngimg   
-    <https://pngimg.com/> 有很多无版权的矢量图，例如搜索satellite就能搜到各种卫星的矢量图标。  
+    <https://pngimg.com/>   
+  - Freepik   
+    <https://www.freepik.com/>         
+  - pngimg   
+    <https://pngimg.com/>   
     
 ### 图片配色：
 - Color Palette Generator-可以自动生成设定个数的色彩搭配方案，可以在屏幕选择里自动改变色系  
