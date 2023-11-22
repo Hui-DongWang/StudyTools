@@ -36,12 +36,18 @@
 ## 其他工具
 ### 思维导图
 -MindMiester  
-<https://www.mindmeister.com/>  
+<https://www.mindmeister.com/>   
+-XMind  
+-<https://xmind.app/>  
+-MarginNote（Mac友好）
+-<https://www.marginnote.com/>
+
 ### 网站建立：
 -Wix   
 <https://www.wix.com/>  
  一站式建立网站，我的粗糙主页就是用Wix建立的，可以参考:<https://www.wanghuidong.com/> 
+ 
  ### 数据批量下载：
- Tab Save (Chrome插件)
-
+ Tab Save (Chrome插件)  
+ DownThemAll(Chrome插件 )   
 # 致谢：
