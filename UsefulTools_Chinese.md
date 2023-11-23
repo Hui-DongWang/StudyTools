@@ -39,7 +39,7 @@
 - 阿里云国内地区选择器   
   <https://datav.aliyun.com/portal/school/atlas/area_selector>  
 - GADM全球行政区划边界图   
-  <https://gadm.org/>  
+  <https://gadm.org/> 
 
 ## 英文文章阅读
 ### Chrome插件：
@@ -63,5 +63,9 @@
  ### 数据批量下载：
 - Tab Save (Chrome插件)  
 - DownThemAll（Chrome插件）   
+
+ ### Youtube视频下载：   
+ - Gihosoft TubeGet    
+   <https://www.gihosoft.com/free-youtube-downloader.html>    
 
 # 致谢：
