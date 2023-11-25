@@ -2,8 +2,11 @@
 Some useful tools for my study.
 
 ## What's New & Updated
-### 23 Now 2023   
-Add a **Free Youtube Downloader (Gihosoft TubeGet)** in Chapter **_Others_**   
+### 25 Nov 2023  
+Add a **Bibliographic Management (Notion)** in Chapter: **_Academic Article Reading_**
+
+### 23 Nov 2023   
+Add a **Free Youtube Downloader (Gihosoft TubeGet)** in Chapter: **_Others_**   
 
 ### 22 Nov 2023
 Add new chapter of **_Figure Design for Academic Writing_**   
