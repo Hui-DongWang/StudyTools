@@ -41,10 +41,14 @@
 - GADM全球行政区划边界图   
   <https://gadm.org/> 
 
-## 英文文章阅读
-### Chrome插件：
+## 论文阅读
+### Chrome翻译插件：
 - Less Translate：浏览器鼠标指向单词实时翻译  
-- lmTranslate：鼠标整段选取谷歌翻译  
+- lmTranslate：鼠标整段选取谷歌翻译
+
+### 文献梳理
+- Notion (文献信息汇总整理+阅读进度+阅读笔记记录)      
+  <https://www.notion.so/>    
 
 ## 其他工具
 ### 思维导图
