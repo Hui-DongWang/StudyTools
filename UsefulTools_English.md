@@ -43,10 +43,14 @@
 - GADM  
   <https://gadm.org/>  
 
-## English Reading
+## Academic Article Reading
 ### Chrome Plugins：
 - Less Translate:
-- Google Translate  
+- Google Translate
+
+### Biliographic Management
+- Notion (Reading list & Biliographic Info)     
+  <https://www.notion.so/>     
 
 ## Others
 ### mind mapping
