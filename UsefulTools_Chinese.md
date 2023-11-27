@@ -48,7 +48,9 @@
 
 ### 文献梳理
 - Notion (文献信息汇总整理+阅读进度+阅读笔记记录)      
-  <https://www.notion.so/>    
+  <https://www.notion.so/>
+- Notero（Notion的Zotero插件）  
+  <https://github.com/dvanoni/notero>    
 
 ## 其他工具
 ### 思维导图
