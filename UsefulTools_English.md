@@ -50,7 +50,9 @@
 
 ### Biliographic Management
 - Notion (Reading list & Biliographic Info)     
-  <https://www.notion.so/>     
+  <https://www.notion.so/>
+- Notero（Zotero Pluggin for Notion）   
+  <https://github.com/dvanoni/notero>        
 
 ## Others
 ### mind mapping
