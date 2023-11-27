@@ -3,7 +3,7 @@ Some useful tools for my study.
 
 ## What's New & Updated   
 ### 27 Nov 2023    
-Add a ***Bibliographic Management(Notero)** in Chapter: **_Academic Article Reading_**   
+Add a **Bibliographic Management(Notero)** in Chapter: **_Academic Article Reading_**   
 ### 25 Nov 2023  
 Add a **Bibliographic Management (Notion)** in Chapter: **_Academic Article Reading_**
 
